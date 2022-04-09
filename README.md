@@ -58,3 +58,21 @@ Faz o snapshot de um arquivo na preparação para versionamento
 Grava o snapshot permanentemente do arquivo no histórico de versão
 
 ## Mudando Grupos
+Nomeie uma série de commits e combine os esforços completos
+
+
+###### __git branch__
+Lista todos os branches locais no repositório atual
+
+###### __git branch [*e o nome do branch*]
+Cria um novo branch
+
+###### __git checkout [*mais o nome do branch*]
+Muda para o branch específico e atualiza o diretório de trabalho
+
+###### __git merge [*e o nome do branch*]__
+Combina o histórico do branch específico com o branch atual
+
+###### __git branch -d [*mais o nome do branch*]__
+Exclui o branch específico
+

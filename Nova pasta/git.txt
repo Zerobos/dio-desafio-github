@@ -1,0 +1,6 @@
+Uma pagina com uma lista completa de comandos Git
+
+https://www.atlassian.com/br/git/tutorials/setting-up-a-repository/git-config#:~:text=%24%20git%20config%20--global%20color.ui%20false%20Por%20padr%C3%A3o%2C,for%20redirecionado%20ao%20arquivo%20ou%20a%20outro%20processo.
+
+O que é branch
+https://yunwuxin1.gitbooks.io/git/content/pt-br/cc77aedd1d96df8699d34a2ccb377483/ae0334b6ccde906fb80a7b13e3bf8eb4.html

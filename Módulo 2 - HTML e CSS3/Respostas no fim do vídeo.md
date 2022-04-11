@@ -18,3 +18,10 @@ _Assim como a primeira pergunta, o [Symbolics.com](https://symbolics.com/) está
 
 ___
 # 2. Como Funciona a Internet
+
+1. __Use o terminal de comandos para descobrir o endereço de sites famosos.__
+
+_O resultado para o [Youtube](https://www.youtube.com/) foi  __142.250.218.14___
+
+___
+# 3. TCP/IP, Portas roteadores, switches e modems

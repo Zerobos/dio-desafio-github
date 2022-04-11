@@ -14,7 +14,7 @@ _O restaurante Pizza Hut afirma, há alguns anos, que o primeiro item vendido na
 
 4. __Qual o site mais antigo em atividade?__
 
-_assim como a primeira pergunta, o [Symbolics.com](https://symbolics.com/) está em atividade até os dias de hoje.
+_Assim como a primeira pergunta, o [Symbolics.com](https://symbolics.com/) está em atividade até os dias de hoje._
 
 ___
-# 2. Termos Chave
+# 2. Como Funciona a Internet

@@ -44,3 +44,10 @@ _Quando trabalhamos com o Apache, temos à nossa disposição a porta 80 para ac
 
 ___
 # 4. Celular, internet e outros dispositivos.
+1. __Na sua vida pessoal, houve alguma mudança em relação ao acesso à internet e ao consumo de dados online? por exemplo: vídeos, jogos músicas, troca de mensagens, compras, alimentação, noticias, cursos...__
+
+.
+
+___
+# 5. Browser, sites, aplicativos e webserver
+1. __

@@ -25,3 +25,22 @@ _O resultado para o [Youtube](https://www.youtube.com/) foi  __142.250.218.14___
 
 ___
 # 3. TCP/IP, Portas roteadores, switches e modems
+1. __O _Gmail_ costuma usar portas próprias, que não são as padrões de SMTP e POP3. Tente descobrir quais são.__
+
+* _Configurações de entrada_
+* _Servidor IMAP: imap.gmail.com_
+* _Porta: 993_
+* _Tipo de segurança: SSL_
+* _Configurações de saída_
+* _Servidor SMTP: smtp.gmail.com_
+* _Porta: 465 ou 581_
+* _Tipo de segurança: SSL_
+
+2. __O programador que trabalha com a internet costuma usar bancos de dados, como MySQL, e, é claro, servidor web, como o Apache. Que tal você se adiantar e já descobrir quais são as portas usadas por esses sistemas?__
+
+_A porta __3306__ é a porta padrão utilizada para o protocolo MySQL. Você a utilizará para conectar-se com clientes MySQL e utilitários como o mysqldump._
+
+_Quando trabalhamos com o Apache, temos à nossa disposição a porta 80 para acessarmos nosso servidor Web e testá-lo no navegador._
+
+___
+# 4. Celular, internet e outros dispositivos.

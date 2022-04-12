@@ -55,3 +55,11 @@ ___
 ___
 # 6. O que são Stacks
 1. __tente encontrar, na internet, quais são as tecnologias utilizadas em cada stack de grandes empresas (_Google, Facebook, IBM, Apple, etc..._)__
+
+.
+
+___
+# 7. Linguagem de Programação e Termos
+1. __Pesquise um pouco sobre [Apache](https://apache.org/), [MySQL](https://www.mysql.com/) e [PHP](https://www.php.net/), pois vamos usar na proxima aula para construir nossa primeira aplicação teste.__
+
+.

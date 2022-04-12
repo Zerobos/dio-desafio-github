@@ -51,3 +51,7 @@ ___
 ___
 # 5. Browser, sites, aplicativos e webserver
 1. __
+
+___
+# 6. O que são Stacks
+1. __tente encontrar, na internet, quais são as tecnologias utilizadas em cada stack de grandes empresas (_Google, Facebook, IBM, Apple, etc..._)__

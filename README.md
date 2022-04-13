@@ -34,7 +34,7 @@ Iniciando um novo repositório ou obtendo através de uma URL.
 ###### __git init [*e o nome do projeto*]__
 Irá criar um novo repositório local com um nome específico
 
-###### __ git clone [*e a URL ou SSH*]__
+###### __git clone [*e a URL ou SSH*]__
 Fará o download do projeto e seu histórico de versão
 
 ## Fazendo Alterações
@@ -64,10 +64,10 @@ Nomeie uma série de commits e combine os esforços completos
 ###### __git branch__
 Lista todos os branches locais no repositório atual
 
-###### __git branch [*e o nome do branch*]
+###### __git branch [*e o nome do branch*]__
 Cria um novo branch
 
-###### __git checkout [*mais o nome do branch*]
+###### __git checkout [*mais o nome do branch*]__
 Muda para o branch específico e atualiza o diretório de trabalho
 
 ###### __git merge [*e o nome do branch*]__

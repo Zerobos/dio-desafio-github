@@ -33,7 +33,7 @@ a diferença quando falarmos sobre CSS - e o título da página com a tag title.
 
 E dentro da tag body colocamos todo o conteúdo visível ao usuário: textos, imagens, vídeos.
 
-## Prática
+### Prática
 Como exercício para esse curso iremos construir um site pessoal, e precisamos começar com a estrutura básica que acabamos de ver.
 
 Vamos criar um arquivo index.html e adicionar o doctype e os elementos html, head e body.
@@ -81,7 +81,7 @@ Eles não foram criados na versão 5 do HTML e nem são específicos para semân
 utilizados para marcar a importância dos títulos, sendo ***< h1 >*** o mais importante e ***< h6 >*** o menos. Uma dica: 
 use apenas um ***< h1 >*** por página, pois ele representa o objetivo da sua página.
 
-## Prática
+### Prática
 Dando continuidade ao nosso site iremos montar sua estrutura. Pensei em adicionarmos um cabeçalho com nosso nome, 
 uma lista de posts (como um blog) e um rodapé para nossos contatos.
 
@@ -116,7 +116,7 @@ os dois últimos precisam dos prefixos ***mailto:*** e ***tel:***, respectivamen
 
 O target neste momento vai servir para nos ajudar a abrir nossos links em outra aba do navegador usando o valor ***_blank***.
 
-## Prática
+### Prática
 Vamos adicionar um texto fictício a nossa postagem: logo após o fechamento do ***< /header >*** vamos adicionar um elemento ***p*** e
 inserir um texto que vamos retirar do site [lipsum.com](https://lipsum.com/)
 
@@ -137,7 +137,7 @@ O ***src*** é obrigatório e guarda o caminho para a imagem que você quer most
 O ***alt*** não é obrigatório mas é altamente recomendado por melhorar a acessibilidade, ele mostra a descrição da imagem caso ela não carregue e
 leitores de tela usam esse atributo para descrever a imagem para o usuário saber o que ela significa.
   
-## Prática
+### Prática
 Vamos adicionar uma imagem ao cabeçalho da página e uma imagem a postagem.
 
 Primeiro vamos colocar as imagens na pasta do nosso projeto. Para a imagem do cabeçalho eu escolhi uma foto minha com 100 pixels de largura e 100 pixels de altura
@@ -161,7 +161,7 @@ O ***< ol >*** serve para criar lista ordenadas, nessas a ordem importa, portant
 
 E o elemento ***li*** é um item dentro de uma dessas listas. Um ***< li >*** pode conter vários tipos de conteúdos, como parágrafos, imagens e até outras listas.
   
-## Prática
+### Prática
 Adicionaremos uma lista de contatos ao rodapé da nossa página, e para isso usaremos também o elemento a que vimos anteriormente.
 
 Crie um elemento ul e dentro dele adicione um ***< li >*** com um elemento a, no atributo ***href*** adicione o link de alguma rede social que você mantenha e,
